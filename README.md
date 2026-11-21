@@ -3,7 +3,7 @@
 *A Marvel superhero movie about magic, alternate dimensions, and the multiverse.
 It tells the story of **Dr. Stephen Strange**, a talented but arrogant neurosurgeon whose life changes after a terrible car accident damages his hands.*
 ---
-# H1 Main Characters
+# Main Characters
 1. Doctor Stephen Strange – A former neurosurgeon who becomes a powerful sorcerer.
 2. The Ancient One – The teacher who introduces Strange to the mystical arts.
 3. Wong – The librarian and protector of mystical knowledge.
